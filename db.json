@@ -2,18 +2,18 @@
   "cards": {
     "total_orders": {
       "value": 2,
-      "prev_to_curr_trend": 10    },
+      "prev_to_curr_trend": 54    },
     "orders_received": {
       "value": 0,
       "prev_to_curr_trend": -20    },
     "orders_to_be_received": {
-      "value": 2,
+      "value": 2012,
       "prev_to_curr_trend": null    },
     "orders_returned": {
-      "value": 0,
+      "value": 132,
       "prev_to_curr_trend": 12.34    },
     "items_expiring": {
-      "value": 0,
+      "value": 6003,
       "prev_to_curr_trend": -34.56    }
   }
 }
