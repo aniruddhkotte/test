@@ -63,78 +63,6 @@
       "estimated_time": null,
       "user_name": "admin",
       "updated_at": null,
-      "id": 3,
-      "total_amount": null,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:00:02.313372"
-    },
-    "order_items": [
-      {
-        "id": 4,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 3,
-        "quantity": 500
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 4,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:01:01.063161"
-    },
-    "order_items": [
-      {
-        "id": 5,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 4,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 5,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:01:22.319937"
-    },
-    "order_items": [
-      {
-        "id": 6,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 5,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
       "id": 6,
       "total_amount": 3.99,
       "notes": "food should be spicy",
@@ -148,54 +76,6 @@
         "add_on": "extra cheese",
         "item_name": "Jumbo Burger",
         "order_id": 6,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 7,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:04:18.938622"
-    },
-    "order_items": [
-      {
-        "id": 8,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 7,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 8,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:05:25.577040"
-    },
-    "order_items": [
-      {
-        "id": 9,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 8,
         "quantity": 5
       }
     ]
@@ -231,30 +111,6 @@
       "estimated_time": null,
       "user_name": "admin",
       "updated_at": null,
-      "id": 10,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:09:52.303165"
-    },
-    "order_items": [
-      {
-        "id": 11,
-        "vendor_id": 1,
-        "price": 3.99,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 10,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
       "id": 11,
       "total_amount": 3.99,
       "notes": "food should be spicy",
@@ -268,30 +124,6 @@
         "add_on": "extra cheese",
         "item_name": "Jumbo Burger",
         "order_id": 11,
-        "quantity": 15
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 12,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:11:06.361705"
-    },
-    "order_items": [
-      {
-        "id": 13,
-        "vendor_id": 1,
-        "price": 3.99,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 12,
         "quantity": 15
       }
     ]
@@ -317,30 +149,6 @@
         "item_name": "Jumbo Burger",
         "order_id": 13,
         "quantity": 15
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 14,
-      "total_amount": null,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:11:42.058299"
-    },
-    "order_items": [
-      {
-        "id": 15,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 14,
-        "quantity": 150
       }
     ]
   },
@@ -399,102 +207,6 @@
       "estimated_time": null,
       "user_name": "admin",
       "updated_at": null,
-      "id": 17,
-      "total_amount": null,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:12:00.103919"
-    },
-    "order_items": [
-      {
-        "id": 18,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 17,
-        "quantity": 15
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 18,
-      "total_amount": 3.99,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:12:30.444230"
-    },
-    "order_items": [
-      {
-        "id": 19,
-        "vendor_id": 1,
-        "price": 3.99,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 18,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 19,
-      "total_amount": null,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:12:39.595543"
-    },
-    "order_items": [
-      {
-        "id": 20,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 19,
-        "quantity": 5
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 20,
-      "total_amount": null,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:12:51.356634"
-    },
-    "order_items": [
-      {
-        "id": 21,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Jumbo Burger",
-        "order_id": 20,
-        "quantity": 1
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
       "id": 21,
       "total_amount": null,
       "notes": "food should be spicy",
@@ -508,30 +220,6 @@
         "add_on": "extra cheese",
         "item_name": "Spicy Cheese Bacon",
         "order_id": 21,
-        "quantity": 1
-      }
-    ]
-  },
-  {
-    "order_summary": {
-      "vendor_id": 1,
-      "status": "New",
-      "estimated_time": null,
-      "user_name": "admin",
-      "updated_at": null,
-      "id": 22,
-      "total_amount": null,
-      "notes": "food should be spicy",
-      "created_at": "2022-08-08T17:56:04.118172"
-    },
-    "order_items": [
-      {
-        "id": 23,
-        "vendor_id": 1,
-        "price": null,
-        "add_on": "extra cheese",
-        "item_name": "Spicy Cheese Bacon",
-        "order_id": 22,
         "quantity": 1
       }
     ]
